@@ -12,7 +12,7 @@
 
 This is more of a proof of concept rather than a fully working project. This tries to replicate
 the [caddy JSON API](https://caddyserver.com/docs/json/)
-structure to work through chainable PHP classes.
+structure to work through chainable PHP classes. Additional considerations for Caddy's WAF module.
 
 At the moment there is only a tiny subset of commands available from Caddy 2.0 that covered my currently needed use
 case.
